@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0seu7GklbsyKXoNXfCibBcnJf1lJjNQ6BzrvLub9FxI=",
+  "Source": "RedisElasticDemo",
+  "BasePath": "_content/RedisElasticDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
